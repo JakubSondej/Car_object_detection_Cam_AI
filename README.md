@@ -6,6 +6,7 @@ This project presents a mobile vehicle controlled by an **STM32 microcontroller*
 ![1 (2)](https://github.com/user-attachments/assets/4f17d9a7-0ca0-4be2-9d32-d2b4f99cb9cf)
 
 ## 🛠 Build  
+- **Electronics**: Raspberry Pi4 4GB, STM32 L152RE, INA3221, camera logitech C165, HC-05 Bluetooth 
 - **Construction**: Lego Technic and 3D-printed components.  
 - **Drive system**: BLDC motors with encoders and omnidirectional wheels.  
 - **Power supply**: 2S2P **18650 battery pack** with a BMS circuit.  
