@@ -26,11 +26,11 @@ This project presents a mobile vehicle controlled by an **STM32 microcontroller*
 - Data is stored in a **MySQL database** on the Raspberry Pi.  
 
 ## 🏗 Key Files  
-- `camera.py` – Camera handling & AI processing.  
+- `cameraAI.py` – Camera handling & AI processing.  
 - `main_threading.py` – Thread management for vehicle control.  
-- `sql_stm.py` – Communication with **STM32** & database.  
-- `hc05.py` – Bluetooth HC-05 module control.  
-- `stm32_code.c` – Motor & sensor control on **STM32**.  
+- `sql_&_stm.py` – Communication with **STM32** & database.  
+- `hc05_bluotooth.py` – Bluetooth HC-05 module control.  
+- `bib.h`, `INA3221.h` – Motor & sensor control on **STM32**.  
 
 ## 📊 Data Visualization  
 Sensor data is stored in the database and visualized using **Jupyter Notebook**.  
