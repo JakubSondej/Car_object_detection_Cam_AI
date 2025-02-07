@@ -1,0 +1,9 @@
+../Core/Src/INA3221.c:18:6:INA3221_Init	1
+../Core/Src/INA3221.c:29:6:INA3221_SetShuntResistor	3
+../Core/Src/INA3221.c:35:6:INA3221_SetFilterResistor	3
+../Core/Src/INA3221.c:43:7:INA3221_GetBusVoltage	5
+../Core/Src/INA3221.c:56:7:INA3221_GetShuntVoltageRaw	6
+../Core/Src/INA3221.c:70:7:INA3221_GetCurrentRaw	1
+../Core/Src/INA3221.c:75:10:INA3221_ReadReg	1
+../Core/Src/INA3221.c:82:10:INA3221_GetManufacturerID	1
+../Core/Src/INA3221.c:87:10:INA3221_GetDieID	1
