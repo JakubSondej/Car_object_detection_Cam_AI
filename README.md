@@ -3,6 +3,7 @@
 # AI-Powered Mobile Vehicle for Object Detection  
 
 This project presents a mobile vehicle controlled by an **STM32 microcontroller** and a **Raspberry Pi 4**, using an **AI model** to detect a tennis ball and navigate autonomously.  
+![1 (2)](https://github.com/user-attachments/assets/4f17d9a7-0ca0-4be2-9d32-d2b4f99cb9cf)
 
 ## 🛠 Build  
 - **Construction**: Lego Technic and 3D-printed components.  
