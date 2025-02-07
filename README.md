@@ -12,7 +12,7 @@ This project presents a mobile vehicle controlled by an **STM32 microcontroller*
 ![aasd](https://github.com/user-attachments/assets/6bea847d-5e31-4e62-9705-56f43df58f70)
 
   - **UART**:      STM32 ↔️ RPi  
-  - **Bluetooth**: Phone control  ↔️ Raspberry Pi
+  - **Bluetooth**: Phone control  ↔️ Raspberry Pi 4 4GB
   - **I2C**:       Power monitoring ↔️ STM32
 
 ## 🤖 AI and Object Detection  
