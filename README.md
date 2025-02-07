@@ -18,6 +18,8 @@ This project presents a mobile vehicle controlled by an **STM32 microcontroller*
   - **I2C**:       Power monitoring ↔️ STM32
 
 ## 🤖 AI and Object Detection  
+![22](https://github.com/user-attachments/assets/c0f59166-2248-48b7-bb70-c96b4d46569f)
+
 - AI model trained using **Edge Impulse** (**MobileNetV2 SSD FPN-Lite**).  
 - Detects the ball and determines its position and size.  
 - Video streaming via a **Flask server**.  
